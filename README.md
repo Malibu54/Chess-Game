@@ -8,6 +8,10 @@ Un juego de ajedrez completo desarrollado con HTML5, CSS3, JavaScript y Bootstra
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
+<picture align="center">
+    <img src="/assets/image.png">
+</picture>
+
 ## ✨ Características Principales
 
 ### 🎮 Funcionalidades del Juego
