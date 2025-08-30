@@ -214,7 +214,7 @@ Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) pa
 
 ## 👨‍💻 Autor
 
-**Tu Nombre**
+**Oriana**
 - GitHub: [@malibu54](https://github.com/malibu54)
 - LinkedIn: [Oriana Soledad](https://linkedin.com/in/orianasoledad)
 
